@@ -601,18 +601,18 @@ ruby_ore.name=红宝石矿石
 sapphire_ore.name=蓝宝石矿石
 topaz_ore.name=黄玉矿石
 
-item.ruby_helmet.name=红宝石黄玉
+item.ruby_helmet.name=红宝石头盔
 item.ruby_chestplate.name=红宝石胸甲
 item.ruby_leggings.name=红宝石护腿
-item.ruby_boots.name=红宝石靴
-item.sapphire_helmet.name=蓝宝石黄玉
+item.ruby_boots.name=红宝石靴子
+item.sapphire_helmet.name=蓝宝石头盔
 item.sapphire_chestplate.name=蓝宝石胸甲
 item.sapphire_leggings.name=蓝宝石护腿
-item.sapphire_boots.name=蓝宝石靴
-item.topaz_helmet.name=黄玉黄玉
+item.sapphire_boots.name=蓝宝石靴子
+item.topaz_helmet.name=黄玉头盔
 item.topaz_chestplate.name=黄玉胸甲
 item.topaz_leggings.name=黄玉护腿
-item.topaz_boots.name=黄玉靴
+item.topaz_boots.name=黄玉靴子
 
 magnetit.name=磁铁矿
 calaverite.name=碲金矿
